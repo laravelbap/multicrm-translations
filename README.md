@@ -8,3 +8,4 @@ https://codecanyon.net/item/multicrm-multicompany-laravel-crm/22196657
 **Currently supported translation languages:** 
 
 1. en
+2. partial fr
